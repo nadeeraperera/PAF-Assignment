@@ -28,7 +28,7 @@
                     <section class="content">
                         <div class="row">
                             <!-- left column -->
-                            <div class="col-md-4">
+                            <div class="col-md-12">
                                 <!-- general form elements -->
                                 <div class="box box-primary">
                                     <div class="box-header with-border">
@@ -65,7 +65,7 @@
                                         <!-- /.box-body -->
                                         <div class="box-footer" style="text-align: left">
                                             <button type="submit" class="btn btn-primary" id="btnSave"
-                                                    style="margin-left:100px">Save
+                                                    >Save
                                             </button>
                                             <button type="reset" class="btn btn-primary" style="margin-left:30px">
                                                 Clear
@@ -74,7 +74,7 @@
                                     </form>
                                 </div>
                             </div>
-                            <div class="col-md-8">
+                            <div class="col-md-12">
                                 <div class="box">
                                     <div class="box-header">
                                         <h3 class="box-title">Payment Information</h3>
@@ -107,7 +107,6 @@
 
                 <footer class="main-footer">
                     <!-- Default to the left -->
-                    <p style="text-align: center"><strong>Copyright &copy; PAF </strong> | Group 406-G8</p>
                 </footer>
             </div>
         </div>
